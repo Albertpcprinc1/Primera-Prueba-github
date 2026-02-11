@@ -5,7 +5,7 @@ import jakarta.persistence.Table;
 import lombok.Data;
 
 @Entity
-@Table(name="articulos")
+@Table(name="campos-deportivos")
 @Data
 public class prueba2_git_a_github {
 
